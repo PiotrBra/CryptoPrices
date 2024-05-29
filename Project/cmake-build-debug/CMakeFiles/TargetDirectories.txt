@@ -1,0 +1,3 @@
+C:/Users/Piotr/Desktop/study/cpp/CryptoPrices/Project/cmake-build-debug/CMakeFiles/Project.dir
+C:/Users/Piotr/Desktop/study/cpp/CryptoPrices/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Piotr/Desktop/study/cpp/CryptoPrices/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
