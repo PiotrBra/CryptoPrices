@@ -15,6 +15,6 @@ Aby uruchomić ten projekt, wykonaj następujące kroki:
    vcpkg install curl
    vcpkg install nlohmann-json
    ```
-4. ** W pliku CMakeLists.txt zmień ścieżkę do vcpkg**
+4. **W pliku CMakeLists.txt zmień ścieżkę do vcpkg**:
 ```bash set(CMAKE_TOOLCHAIN_FILE "scieżka_do_vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake") ```
-5. ** Skompiluj i uruchom program**.
+5. **Skompiluj i uruchom program**.
