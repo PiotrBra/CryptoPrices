@@ -1,6 +1,6 @@
 # Crypto Prices
 
-Projekt Crypto Prices pobiera aktualne dane o kryptowalutach z API CoinGecko, parsuje je, a następnie wyświetla informacje o wybranych kryptowalutach w konsoli.
+Projekt Crypto Prices pobiera aktualne dane o kryptowalutach z API CoinGecko, parsuje je, a następnie wyświetla informacje o top 5 kryptowalutach w konsoli.
 
 ## Uruchomienie projektu
 
